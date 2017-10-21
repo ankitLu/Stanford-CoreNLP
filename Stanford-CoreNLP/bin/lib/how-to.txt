@@ -1,0 +1,1 @@
+download stanford libraries and add to the build path
