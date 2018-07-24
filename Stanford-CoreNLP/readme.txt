@@ -1,3 +1,7 @@
+This code is for playing with Stanford Library and perorming basic operations on a text corpus.
+Developed during work for Knowledge Disovery in Data Science (KDD), Aug - Dec 2017
+
+
 1.       Download CoreNLP from official website https://stanfordnlp.github.io/CoreNLP/download.html
 
 Download | Stanford CoreNLP
